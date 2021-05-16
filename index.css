@@ -1,6 +1,6 @@
 @font-face {
   font-family: nasaFont;
-  src: url("./nasalization.ttf");
+  src: url("./assets/nasalization.ttf");
 }
 
 * {
@@ -1710,17 +1710,8 @@ body {
   min-height: 100vh;
   background-color: #000;
   background-size: cover;
-  background-image: url("./galaxy-wallpaper.jpeg");
+  background-image: url("./assets/galaxy-wallpaper.jpeg");
   height: -webkit-fill-available;
-}
-
-.jumbo-container {
-  padding-top: 150px;
-  min-height: 100vh;
-  background-color: #000;
-  background-image: url("./space-background.jpeg");
-  background-size: cover;
-  position: relative;
 }
 
 .roadmap-container {
@@ -1730,7 +1721,7 @@ body {
   min-height: 100vh;
   background-color: #000;
   background-size: cover;
-  background-image: url("./galaxy-wallpaper.jpeg");
+  background-image: url("./assets/galaxy-wallpaper.jpeg");
 }
 
 .main-description {
